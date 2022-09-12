@@ -19,7 +19,7 @@ This Project is all about frontend website development
 ```
 
 💬 Ask me, If your project is not running - 
-[Linkedin](https://www.linkedin.com/in/ayerajkumar)
+[Linkedin](https://www.linkedin.com/in/soumya-raj-/)
 ## 🚀 About Me
 I'm an Engineering Student & A Full Stack Web Developer
 
