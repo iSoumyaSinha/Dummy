@@ -1,9 +1,9 @@
-<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=AyeRaj" alt="Visitor badge"/>
+<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=dummy" alt="Visitor badge"/>
     
 # Food Delivery Website - Frontend
-# Hi, I'm Raj! 👋
+# Hi, I'm Soumya Raj! 👋
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayerajkumar/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-raj-/)
 
 This Project is all about frontend website development
     
@@ -45,10 +45,6 @@ HTML & CSS only...
 ![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(98).png?raw=true)
 -
 
-### Bottom View
-
-![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(99).png?raw=true)
-
 <hr></hr>
 
 ## Phone Screenshots
@@ -67,13 +63,5 @@ HTML & CSS only...
 
 ![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(102).png?raw=true)
 
-### Bottom View
 
-
-![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(103).png?raw=true)
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at ayerajkumar@gmail.com
 
